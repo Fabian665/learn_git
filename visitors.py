@@ -7,6 +7,11 @@ def barak() -> str:
 
 
 @append_decorator
+def fabian() -> str:
+    return ""
+
+
+@append_decorator
 def beni() -> str:
     return ""
 
