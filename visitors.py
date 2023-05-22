@@ -53,7 +53,7 @@ def yuval_c() -> str:
 
 @append_decorator
 def yuval_g() -> str:
-    return ""
+    return "sup Bitchezzzz 420$$$$$$$$$$$ 8====D~"
 
 
 @append_decorator
