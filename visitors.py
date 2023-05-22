@@ -28,7 +28,7 @@ def idan() -> str:
 
 @append_decorator
 def mark() -> str:
-    return ""
+    return "something creative"
 
 
 @append_decorator
