@@ -68,7 +68,7 @@ def _or() -> str:
 
 @append_decorator
 def yuval_c() -> str:
-    return ""
+    return "hello world"
 
 
 @append_decorator
